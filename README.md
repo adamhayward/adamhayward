@@ -1,6 +1,6 @@
 # WELCOME!
 
-I'm **Adam Hayward**, Full Web developer, I am currenly enrolled in a boot camp course hoseted by SMU -<br/> -learning the ends and outs of web developement.
+I'm **Adam Hayward**, Full Web developer, I am currenly enrolled in a bootcamp course hoseted by SMU -<br/> -learning the ends and outs of web developement.
 
 ## Langues and Tools:
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -13,4 +13,4 @@ I'm **Adam Hayward**, Full Web developer, I am currenly enrolled in a boot camp 
 <br/>
 <br/>
 
----
+___
