@@ -14,3 +14,5 @@ I'm **Adam Hayward**, Full Web developer, I am currenly enrolled in a bootcamp c
 <br/>
 
 ___
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adamhayward.adamhayward)
+
